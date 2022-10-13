@@ -428,7 +428,7 @@ The the command
 git push origin main
 ```
 (or whatever branch you want to push, more on branches in the next section)
-will move any changes commited on your computer to GitHub.
+will move any changes committed on your computer to GitHub.
 And the command
 ```
 git pull origin main

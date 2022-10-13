@@ -79,7 +79,7 @@ The most handy command with redirection:
 $ history|grep "cd"
 ```
 
-### Mangaging processes
+### Managing processes
 
 `ps -A` to list all processes:
 
